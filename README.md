@@ -2,7 +2,7 @@
 
 Introduction to Robotics laboratory homeworks, taken in the 3rd year at the Faculty of Mathematics and Computer Science, University of Bucharest. We will discuss and learn about robotics using Arduino Uno. 
 
-# Homework 1 - Light up and RGB led
+# Homework 1 - Light up a RGB led
 
 ## Components
 
@@ -12,7 +12,7 @@ Introduction to Robotics laboratory homeworks, taken in the 3rd year at the Facu
 
 ## Task
 
-Use a separat potentiometer in controlling each of the color of the RGB led (Red,Green and Blue).  The control must be done with digital electronics(you must read the value of the potentiometer with Arduino, and write a mapped value to each of the pins connected to the led).
+Use a separate potentiometer in controlling each of the color of the RGB led (Red,Green and Blue).  The control must be done with digital electronics(you must read the value of the potentiometer with Arduino, and write a mapped value to each of the pins connected to the led).
 
 ## Setup Pictures
 
