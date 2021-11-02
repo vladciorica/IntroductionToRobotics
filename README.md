@@ -47,4 +47,4 @@ Building the traffic lights for a crosswalk. You will use 2 LEDs to represent th
 
 ## Youtube Demo
 
-https://www.youtube.com/shorts/YbOIRNmDqcI
+https://www.youtube.com/watch?v=YbOIRNmDqcI
