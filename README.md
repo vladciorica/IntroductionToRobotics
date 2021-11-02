@@ -43,11 +43,7 @@ Building the traffic lights for a crosswalk. You will use 2 LEDs to represent th
 
 ## Setup Pictures
 
-<details>
-<summary>Setup picture</summary>
-<br>
 ![setup_image_2](./Homework2/setup_pictures/h2setup_picture2.jpg)
-</details>
 
 ## Youtube Demo
 
