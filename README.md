@@ -63,7 +63,7 @@ Should detect EMF (check body and near outlets). It should print the value on th
 
 ## Setup Pictures
 
-![setup_image_1](./Homework3/setup_pictures/setup_image.jpg)
+![setup_image_1](./Homework3/setup_pictures/setup_image1.jpg)
 
 ## Youtube Demo
 
