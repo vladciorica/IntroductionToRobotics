@@ -48,3 +48,23 @@ Building the traffic lights for a crosswalk. You will use 2 LEDs to represent th
 ## Youtube Demo
 
 https://www.youtube.com/watch?v=YbOIRNmDqcI
+
+# Homework 3 - EMF Detector
+
+## Components
+
+* 7-segment display
+* 1 buzzer
+* wires and resitors
+
+## Task
+
+Should detect EMF (check body and near outlets). It should print the value on the 7-segment display and should make a sound based on the intensity.
+
+## Setup Pictures
+
+![setup_image_1](./Homework3/setup_pictures/setup_image.jpg)
+
+## Youtube Demo
+
+https://www.youtube.com/watch?v=06nDbn-i898
